@@ -1,0 +1,110 @@
+:root{
+    --cor-principal: #397c4a;
+    --cor-secundaria: #9FC490;
+    --branco: white;
+    --preto: black;
+}
+
+body{
+    background-color: #9FC490;
+}
+
+.titulo{
+    color: black;
+    font-size: 5.0em;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    line-height: 0%;
+}
+
+.titulo2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    line-height: 5%;
+    
+}
+
+.titulo3{
+    font-size: 10.0em;
+    color: var(--cor-principal);
+    text-align: center;
+    margin-top:-2%;
+}
+
+.titulo4{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-top: -10%
+}
+
+.inicio{
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+.esculturas{
+    font-size: 50px;
+    text-align: center;
+}
+
+.vcsabia{
+    font-size: 35px;
+    text-align: center;
+}
+
+.ul{
+    font-size: 35px;
+}
+
+.lendas{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    line-height: 5%;
+}
+
+.lendas2{
+    font-size: 45px;
+    color: var(--cor-principal);
+    text-align: center;
+    line-height: 5%;
+
+}
+
+.parte1{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte2{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte3{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte4{
+   font-size: 35px;
+   text-align: center;
+}
+
+.parte5{
+    font-size: 35px;
+    text-align: center;
+}
+
+.linkk{
+    font-size: 40px;
+    color: black;
+}
+
+.link{
+    font-size: 25px;
+}
