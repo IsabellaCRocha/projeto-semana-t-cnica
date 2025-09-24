@@ -32,3 +32,57 @@ body{
     text-align: center;
     margin-top: -3%;
 }
+
+.inicio{
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+.vcsabia{
+    font-size: 35px;
+    text-align: center;
+}
+
+.ul{
+    font-size: 35px;
+}
+
+.parte1{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte2{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte3{
+    font-size: 35px;
+    text-align: center;
+}
+
+.parte4{
+   font-size: 35px;
+   text-align: center;
+}
+
+.parte5{
+    font-size: 35px;
+    text-align: center;
+}
+
+.linkk{
+    font-size: 40px;
+    color: black;
+}
+
+.link{
+    font-size: 25px;
+}
+
+.imagem{
+    width: 500px;
+    alignment-baseline: center;
+}
