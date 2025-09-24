@@ -1,0 +1,34 @@
+:root{
+    --cor-principal: #397c4a;
+    --cor-secundaria: #9FC490;
+    --branco: white;
+    --preto: black;
+}
+
+body{
+    background-color: #9FC490;
+}
+
+.titulo{
+    color: var(--cor-principal);
+    font-size: 5.0em;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    line-height: 0%;
+}
+
+.titulo2{
+    color: var(black);
+    font-size: 30px;
+    text-align: center;
+    line-height: 5%;
+    
+}
+
+.titulo3{
+    font-size: 10.0em;
+    color: var(--cor-principal);
+    text-align: center;
+    margin-top: -2%;
+}
